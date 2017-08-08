@@ -1,0 +1,8 @@
+{
+  "applicationId": null,
+  "awsProfileName": "",
+  "skillName": "Adventure Skill",
+  "lambdaName": "alexa-say-something",
+  "dynamoTableName": "MyAlexaSkillTable",
+  "dynamoRegion": "us-east-1"
+}
